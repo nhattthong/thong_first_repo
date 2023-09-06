@@ -16,3 +16,4 @@ git push
 cap nhat tu server
 git pull
   
+...
